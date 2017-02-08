@@ -8,7 +8,7 @@ $ java pairseqdist sampleInput.txt
 
 Note: A sample text file known as sampleInput.txt is included that has the Clustal Omega alignment format.
 
-### Example of program's output (Forward, 5’)
+### Example of program's output
 Distance (sp|P13987|CD59_HUMAN, sp|P27274|CD59_RAT) = A </br>
 Distance (sp|P13987|CD59_HUMAN , sp|Q8SQ46.1|CD59_MACFA ) = B </br>
 Distance (sp|P13987|CD59_HUMAN , tr|A0A0B5JW41|A0A0B5JW41_DANRE ) = C</br>
